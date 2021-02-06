@@ -20,3 +20,6 @@ To deal with this issue, I created a program that takes a username and outputs t
 This program allows users to continuously enter Lichess usernames and see their chess ratings. 
  
 Now, I can quickly look at many players' ratings without even touching the mouse.
+
+# Future Improvements
+I plan to make it possible to input a list of usernames to make looking up ratings even more efficient.
