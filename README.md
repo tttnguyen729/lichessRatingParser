@@ -10,8 +10,13 @@ Homepage of the Lichess Website.
 
 In the image above, the text highlighted in red are different game modes and ratings. 
 
+As a chess enthusiast, I am interested in seeing the ratings of the top players. However, it is an inconvenience to switch from each player's rating page. 
+A ? means that 
 
 # The Solution
+To deal with this issue, I created a program that takes a username and outputs their current rating on Lichess.
+
 ![Screenshot of Program](screenshots/screenshot.png)
 This program allows users to continuously enter Lichess usernames and see their chess ratings. 
  
+Now, I can quickly look at many players' ratings without even touching the mouse.
