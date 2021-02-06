@@ -1,6 +1,9 @@
 # A Lichess Rating Parser
 
 Are you a chess player? If so, you may be familar with an online chess community called Lichess.
-![Lichess Home Screen](/screenhshots/lichessHome.png)
 
-![Screenshot of Program](/screenhshots/screenshot.png)
+Homepage of the Lichess Website.
+![Lichess Home Screen](screenshots/lichessHome.png)
+
+![Screenshot of Program](screenshots/screenshot.png)
+This program allows users to continuously enter Lichess usernames and see their chess ratings. 
