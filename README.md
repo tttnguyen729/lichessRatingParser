@@ -5,7 +5,7 @@ Are you a chess player? If so, you may be familar with an online chess community
 # The Steps
 Ask the user for the username of the player they want ratings for
 
-'''
+'''shell
 echo Hello, what Lichess username should I look up?
 
 read varName
