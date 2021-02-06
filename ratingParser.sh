@@ -6,11 +6,13 @@ echo Enter quit to exit the program.
 
 read varName
 
-echo 
-echo Here are the ratings for $varName
 
 while [ $varName != quit ]
 do
+	
+echo 
+echo Here are the ratings for $varName
+
 # Download the html file from lichess
 # The s flag makes curl run the operation silently
 curl -s https://lichess.org/@/$varName --output .step1.txt

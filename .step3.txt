@@ -1,14 +1,7 @@
-UltraBullet
 Bullet
 Blitz
 Rapid
 Classical
 Correspondence
-Crazyhouse
-Chess960
-King of the Hill
-Antichess
-Atomic
-Horde
 Puzzles
 Puzzle Storm

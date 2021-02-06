@@ -1,14 +1,7 @@
-UltraBullet			    1508
-Bullet				    1909
-Blitz				    1949
-Rapid				    2046
-Classical			    2001
+Bullet				    1193?
+Blitz				    1672?
+Rapid				    ?
+Classical			    ?
 Correspondence			    ?
-Crazyhouse			    1614?
-Chess960			    1377?
-King of the Hill		    1745?
-Antichess			    1435?
-Atomic				    1233?
-Horde				    ?
-Puzzles				    2207
-Puzzle Storm			    44
+Puzzles				    1913
+Puzzle Storm			    21
