@@ -1,0 +1,16 @@
+UltraBullet			    2620
+Bullet				    3000
+Blitz				    2804
+Rapid				    ?
+Classical			    ?
+Correspondence			    ?
+Crazyhouse			    2580
+Chess960			    2535
+King of the Hill		    2388
+Three-check			    2230
+Antichess			    1943
+Atomic				    2370
+Horde				    2335
+Racing Kings			    1962
+Puzzles				    2493?
+Puzzle Storm			    84
