@@ -24,4 +24,5 @@ grep -Po '(?<=<strong>).+?(?=<)' .step2.txt > .step4.txt
 # Merge the files
 pr -m -t .step3.txt .step4.txt > .step5.txt
 
+# Display ratings
 cat .step5.txt
