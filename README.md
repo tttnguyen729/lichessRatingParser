@@ -1,6 +1,6 @@
 # A Lichess Rating Parser
 
-Are you a chess player? If so, you may be familar with an online chess community called Lichess.
+Are you a chess player? If so, you may be familiar with an online chess community called Lichess.
 
 Homepage of the Lichess Website.
 ![Lichess Home Screen](screenshots/lichessHome.png)
