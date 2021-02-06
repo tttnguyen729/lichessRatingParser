@@ -2,12 +2,15 @@
 # Ask the user for the username of the player they want ratings for
 
 echo Hello, what Lichess username should I look up?
+echo Enter quit to exit the program.
 
 read varName
 
 echo 
 echo Here are the ratings for $varName
 
+while [ $varName != quit ]
+do
 # Download the html file from lichess
 # The s flag makes curl run the operation silently
 curl -s https://lichess.org/@/$varName --output .step1.txt
@@ -26,3 +29,14 @@ pr -m -t .step3.txt .step4.txt > .step5.txt
 
 # Display ratings
 cat .step5.txt
+
+# Asking for next username
+echo 
+echo What is the next Lichess username I should look up?
+echo Enter "quit" to exit the program.
+
+read varName
+
+done
+echo 
+echo Goodbye!

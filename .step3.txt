@@ -7,10 +7,8 @@ Correspondence
 Crazyhouse
 Chess960
 King of the Hill
-Three-check
 Antichess
 Atomic
 Horde
-Racing Kings
 Puzzles
 Puzzle Storm
