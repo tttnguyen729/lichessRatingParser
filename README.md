@@ -11,7 +11,7 @@ Homepage of the Lichess Website.
 In the image above, the text highlighted in red are different game modes and ratings. 
 
 As a chess enthusiast, I am interested in seeing the ratings of the top players. However, it is an inconvenience to switch from each player's rating page. 
-A ? means that 
+A ? means that a player has not played enough games to receive a rating.
 
 # The Solution
 To deal with this issue, I created a program that takes a username and outputs their current rating on Lichess.
